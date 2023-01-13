@@ -436,6 +436,10 @@ section {
 .skills{
   color: #fff;
 }
+.ns a{
+  color: #d22365;
+  text-decoration: underline;
+}
 .skills .progress {
 height: 60px;
   display: block;
